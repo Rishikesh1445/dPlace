@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004289510581",
+    "project_id": "dplace-43446",
+    "storage_bucket": "dplace-43446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004289510581:android:c7e7ba7d9725fad2da02fc",
+        "android_client_info": {
+          "package_name": "com.example.dplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004289510581-rj0t0n9c3s7im6kk2dt25be10kplm16v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dplace",
+            "certificate_hash": "60da9d8aa3785d60671ca2dc4ad1253c7c8e2825"
+          }
+        },
+        {
+          "client_id": "1004289510581-11d712nogkl79h91f1i6v3t3621145na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3XJxzmUJ_-YzKchcQQ1XR9rp1VkgVmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004289510581-11d712nogkl79h91f1i6v3t3621145na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
